@@ -123,14 +123,14 @@ async def amireallyalive(salive):
         await borg.send_file(salive.chat_id, file=sticker)
         await borg.send_message(
             salive.chat_id,
-            "**вℓα¢к ℓιgнтηιηg 𝙸𝚂 🅾︎🅽🅻🅸🅽🅴**\n"
-            f"**𝕄𝕪 𝔹𝕠𝕤𝕤**            : {DEFAULTUSER}\n"
+            "**@Memorato Userbot è ONLINE**\n"
+            f"**PROPRIETARIO**            : {DEFAULTUSER}\n"
             "VERSIONE 𝚃𝙴𝙻𝙴𝚃𝙷𝙾𝙽        : 1.17.5\n"
             "VERSIONE 𝙿𝚈𝚃𝙷𝙾𝙽          : 3.9.0\n"
             "PER SUPPORTO         : [CONTATTA](https://t.me/Memorato)\n"
-            "𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿           : [ᴊᴏɪɴ](https://t.me/Memorato)\n"
-            "𝘓𝘐𝘚𝘌𝘕𝘊𝘌                  : NO\n"
-            "𝘾𝙊𝙋𝙔𝙍𝙄𝙂𝙃𝙏 𝘽𝙔            : NO\n"
+            "CREATORE           : (https://t.me/Memorato)\n"
+            "𝘓𝘐C𝘌𝘕ZA                  : NO\n"
+            "COPYRIGHT            : NO\n"
             "IL BOT FUNZIONA CORRETTAMENTE",
             link_preview=False,
         )
