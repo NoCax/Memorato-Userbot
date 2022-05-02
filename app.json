@@ -1,6 +1,6 @@
 {
-    "name": "Black Lightning - UserBot",
-    "description": "An advanced Telethon Userbot, from @keinshin",
+    "name": "Memorato - UserBot",
+    "description": "An advanced Telethon Userbot, from @Memorato",
     "logo": "https://telegra.ph/file/d8d194c18562472a7c1f1.jpg",
     "keywords": [
      "telegram",
@@ -9,8 +9,8 @@
      "modular",
      "productivity"
     ],
-    "repository": "https://github.com/KeinShin/Black-Lightning",
-    "website": "https://github.com/KeinShin/Black-Lightning",
+    "repository": "https://github.com/NoCax/Memorato-Userbot",
+    "website": "https://github.com/NoCax/Memorato-Userbot",
     "success_url": "https://t.me/blacklightningot",
     "stack": "container",
     "env": {
